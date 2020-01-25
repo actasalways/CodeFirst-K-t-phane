@@ -1,0 +1,46 @@
+c:\users\monster\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+c:\users\monster\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\monster\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\monster\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+c:\users\monster\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+c:\users\monster\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\monster\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\monster\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+c:\users\monster\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+c:\users\monster\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.dll
+c:\users\monster\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\monster\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.xml
+c:\users\monster\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Monster\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.KitapIslemleri.resources
+C:\Users\Monster\Desktop\form falan\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Monster\Desktop\form falan\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Monster\Desktop\form falan\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Monster\Desktop\form falan\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Monster\Desktop\form falan\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Monster\Desktop\form falan\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.dll
+C:\Users\Monster\Desktop\form falan\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Monster\Desktop\form falan\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.xml
+C:\Users\Monster\Desktop\form falan\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Monster\Desktop\form falan\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Monster\Desktop\form falan\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Monster\Desktop\form falan\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.KitapIslemleri.resources
+C:\Users\Monster\Desktop\form falan\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Monster\Desktop\form falan\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Ka-Fa 1500\Desktop\form falan\es\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Ka-Fa 1500\Desktop\form falan\es\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Ka-Fa 1500\Desktop\form falan\es\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Ka-Fa 1500\Desktop\form falan\es\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Ka-Fa 1500\Desktop\form falan\es\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Ka-Fa 1500\Desktop\form falan\es\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.dll
+C:\Users\Ka-Fa 1500\Desktop\form falan\es\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ka-Fa 1500\Desktop\form falan\es\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.xml
+C:\Users\Ka-Fa 1500\Desktop\form falan\es\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ka-Fa 1500\Desktop\form falan\es\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Ka-Fa 1500\Desktop\form falan\es\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Ka-Fa 1500\Desktop\form falan\es\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.KitapIslemleri.resources
+C:\Users\Ka-Fa 1500\Desktop\form falan\es\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Ka-Fa 1500\Desktop\form falan\es\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Ka-Fa 1500\Desktop\form falan\es\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.UyeIslemleri.resources
+C:\Users\Ka-Fa 1500\Desktop\CodeFirst-Kütüphane\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Ka-Fa 1500\Desktop\CodeFirst-Kütüphane\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Ka-Fa 1500\Desktop\CodeFirst-Kütüphane\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

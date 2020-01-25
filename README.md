@@ -1,2 +1,1 @@
-# CodeFirst-Kutuphane
- Basit bir Code First uygulama
+#  Basit bir Code First uygulama
